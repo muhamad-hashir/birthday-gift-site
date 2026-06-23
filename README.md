@@ -14,6 +14,7 @@ and animations.
 - Responsive card layout
 - Utility classes (dotted borders etc)
 - Contact/footer with Instagram link
+- Background Gradients
 
 🛠️ Built With
 - HTML
